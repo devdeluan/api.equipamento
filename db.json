@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "modelo": "G15 5511",
+      "fabricante": "Dell",
+      "data": "30-08-2023",
+      "consumo": "100",
+      "valor": "1000"
+    },
+    {
+      "id": 2,
+      "modelo": "G15 5500",
+      "fabricante": "Asus",
+      "data": "30-08-2024",
+      "consumo": "200",
+      "valor": "2000"
+    },
+    {
+      "id": 3,
+      "modelo": "G15 5522",
+      "fabricante": "Samsung",
+      "data": "30-08-2025",
+      "consumo": "300",
+      "valor": "3000"
+    },
+    {
+      "id": 4,
+      "modelo": "G15 5533",
+      "fabricante": "Dell2",
+      "data": "30-08-2026",
+      "consumo": "400",
+      "valor": "4000"
+    }
+  ],
+  "servicos": [],
+  "equipamentos": []
+}
